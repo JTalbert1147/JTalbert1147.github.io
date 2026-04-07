@@ -37,7 +37,7 @@ main {
 
 h2 {
     margin: 0;
-    font-size: clamp(4rem, 10vw, 7rem);
+    font-size: clamp(3rem, 9vw, 6rem);
     line-height: 0.9;
     font-weight: 900;
     letter-spacing: -0.04em;
